@@ -1,0 +1,15 @@
+Step 1 : Purchase Domain & Hosting. If you already have domain and hosting, you can skip this part.
+
+Step 2 : Install wordpress
+
+Step 3 : Install Theme (Sinatra)
+
+Step 4: Install Necessary Plugins(Elementor, Essential Addons for Elementor, WPForms Lite, Royal Elementor Addons)
+
+Step 5: Create a new page, Set that page as front page. Then download home.json file from here and finally import that to home page.
+
+Step 6: Customize the header, footer and some basic settings from the page edit option and theme customize option. Also, add custom CSS to the theme customize option.
+
+Create a header menu, Create a contact form with WPform and add it to the bottom area.
+
+Step 7: Finally, Replace all dummy content with your own content and we are good to go.
